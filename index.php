@@ -14,7 +14,7 @@
         -email address
         -contact number
     -->
-    <h1 class="text-center">Registration for IT Center</h1>
+    <h1 class="text-center">Registration for IT Conference</h1>
     <form method="post" action="success.php">
         <div class="form-group">
             <label for="firstname">Enter First Name </label>
@@ -46,7 +46,7 @@
             <input type="phone" class="form-control" id="phone" name="phone" aria-describedby="phoneHelp">
             <small id="phoneHelp" class="form-text text-muted">We'll never share your number with anyone else.</small>
         </div>
-        <button type="submit" name="submit" class="btn btn-primary btn-block">Submit</button>
+        <button type="submit" name="submit" class="btn btn-info btn-block">Submit</button>
     </form>
 <br>
 <br>

@@ -1,6 +1,8 @@
 
-    <div id="footer">
-        <?php echo 'Copyright ' . date('y'); ?>   
+    <div id="footer" class="p-3 bg-primary text-white fixed-bottom">
+      <p class="text-center"> IT Conference Attendance System by A.K.M. Nazmul Hasan - &copy; <?php echo 'Copyright ' . date('Y'); ?></p>
+      
+      <!-- php echo 'Copyright ' . date('y');     -->
     </div>
   </div>
  <!-- Optional JavaScript -->
